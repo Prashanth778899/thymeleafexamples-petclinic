@@ -7,7 +7,7 @@
      http://maven.apache.org
 
  Clean compilation products:
- 
+ dummy line added
      mvn clean
      
  Compile:
